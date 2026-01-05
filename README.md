@@ -62,7 +62,9 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/khadija-alarzgue" target="_blank">
+  <a href="https://www.linkedin.com/in/
+khadija-alarzgue-1a43741b7
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:khadija.alarzgue@gmail.com">
