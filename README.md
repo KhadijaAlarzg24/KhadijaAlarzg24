@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
-<h3 align="center">Junior Software Developer | Web Applications Enthusiast</h3>
+<h3 align="center">Junior Software Developer | Web Applications & Web3 Enthusiast</h3>
 
 ---
 
 ### 👩‍💻 About Me
 - 🎓 Certified **Software Developer** (2-year technical degree)
 - 💻 Passionate about building **modern, scalable web applications**
-- 🌱 Currently improving my skills in **Spring Boot** and **JavaScript frameworks**
+- 🌱 Currently improving skills in **Spring Boot**, **JavaScript frameworks**, and **Web3**
 - 🔭 Actively building my **professional portfolio**
 - 📍 Open to **Junior / Entry-Level opportunities**
 
@@ -31,13 +31,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+**Web3 / Blockchain**
+<p>
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart_Contracts-00D1B2?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
+
 **Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
 
 ---
 
@@ -47,7 +52,7 @@
   Modern e-commerce platform built with **Angular 19** and **Tailwind CSS**, featuring product listing, cart management, and responsive UI.
 
 - ☁️ **Weather App**  
-  Real-time weather application built with **Vite**, focusing on fast performance and clean user interface.
+  Real-time weather application built with **Vite**, focusing on fast performance and clean UI.
 
 - ✅ **To-Do Application (Java)**  
   Console-based To-Do application developed using **Java**, demonstrating:
@@ -69,13 +74,12 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/
-khadija-alarzgue-1a43741b7
-" target="_blank">
+  <a href="https://www.linkedin.com/in/khadija-alarzgue" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:khadija.alarzgue@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=khadija.alarzgue@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </p>
+
 
