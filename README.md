@@ -62,10 +62,11 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/khadija-alarzgue-" target="_blank">
+  <a href="https://www.linkedin.com/in/khadija alarzgue" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:khadija.alarzgue@gmail.com">
+<a href="mailto:khadija.alarzgue@gmail.com">
+
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </p>
