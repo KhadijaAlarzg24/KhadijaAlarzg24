@@ -63,18 +63,6 @@
 To run the development server for the **Cabinet Médical Tracker** or any Next.js project locally, follow these steps:
 
 1. **Install dependencies:**
-   ```bash
+```bash
 npm install
 # or yarn install
-
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/khadija-alarzgue-1a43741b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=khadija.alarzgue@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
-</p>
-
-
