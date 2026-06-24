@@ -66,3 +66,7 @@ To run the development server for the **Cabinet Médical Tracker** or any Next.j
 ```bash
 npm install
 # or yarn install
+2. **Run the development server:**
+```bash
+npm run dev
+# or yarn dev
