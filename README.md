@@ -42,7 +42,7 @@
 ### 🚀 Featured Projects
 
 - 🩺 **Cabinet Médical Tracker (En Cours)**  
-  A modern Full-Stack platform for patient management and appointment scheduling built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **MongoDB**.
+  A modern Full-Stack platform for patient management, appointment scheduling, and **AI-powered clinical practice reporting** built with **Next.js**, **TypeScript**, **Tailwind CSS**, **MongoDB**, and integrated with **Google Gemini (`gemini-3.6-flash`)** for automated executive analytics and data-driven healthcare insights.
 
 - 🛒 **Angular E-commerce App**  
   Modern e-commerce platform built with **Angular 19** and **Tailwind CSS**, featuring product listing, cart management, and responsive UI.
@@ -63,10 +63,6 @@
 To run the development server for the **Cabinet Médical Tracker** or any Next.js project locally, follow these steps:
 
 1. **Install dependencies:**
-```bash
-npm install
-# or yarn install
-2. **Run the development server:**
-```bash
-npm run dev
-# or yarn dev
+   ```bash
+   npm install
+   # or yarn install
