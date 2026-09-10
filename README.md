@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
-<h3 align="center">Junior Software Developer | Web Applications & Web3 Enthusiast</h3>
+<h3 align="center"> Software Developer | Web Applications & Web3 Enthusiast</h3>
 
 ---
 
